@@ -202,11 +202,11 @@
       "pvm": {
         "grade": "D",
         "times": [
-          46222,
-          45603,
-          45006,
-          44534,
-          43873
+          46162,
+          45347,
+          44750,
+          44298,
+          43665
         ]
       }
     },
@@ -1201,18 +1201,20 @@
       }
     },
     {
-      "uid": "YKkjw0hH9NVVlhRSRitYuv0kqD",
-      "tmx_id": 37038,
-      "name": "Exausted",
-      "author": "Navi.wp",
+      "uid": "TvAvOBVBNqWrrgIzJgoiN7bYM6l",
+      "tmx_id": 268238,
+      "name": "Exhausted",
+      "author": "aapril.",
       "mod": "",
-      "difficulty": 1,
+      "difficulty": 2,
       "pvm": {
         "grade": "Interstellaire",
         "times": [
           44870,
           44077,
-          43603
+          43603,
+          43254,
+          43036
         ]
       }
     },
@@ -1391,7 +1393,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "Supernovae (en pr\u00E9paration)",
+        "grade": "Supernovae",
         "times": [
           52651,
           51777,
@@ -1409,7 +1411,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "Supernovae (en pr\u00E9paration)",
+        "grade": "Supernovae",
         "times": [
           57485,
           56505,
@@ -1427,7 +1429,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "Supernovae (en pr\u00E9paration)",
+        "grade": "Supernovae",
         "times": [
           63471,
           62574,
@@ -1445,7 +1447,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "Supernovae (en pr\u00E9paration)",
+        "grade": "Supernovae",
         "times": [
           63190,
           62096,
@@ -1470,21 +1472,6 @@
           54350,
           53761,
           53379
-        ]
-      }
-    },
-    {
-      "uid": "TvAvOBVBNqWrrgIzJgoiN7bYM6l",
-      "tmx_id": 268238,
-      "name": "Exhausted",
-      "author": "aapril.",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Interstellaire",
-        "times": [
-          43254,
-          43036
         ]
       }
     }
