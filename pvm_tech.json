@@ -1474,6 +1474,78 @@
           53379
         ]
       }
+    },
+    {
+      "uid": "4VPpTx75JR54_HquJswSmpagLhd",
+      "tmx_id": 40559,
+      "name": "Spiritomb",
+      "author": "Mephist\u00F6.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          60865,
+          60031,
+          59024,
+          58355,
+          57971
+        ]
+      }
+    },
+    {
+      "uid": "wkwfBBecgCZlBEPXO8xgVcOi6l2",
+      "tmx_id": 41173,
+      "name": "Smooth Criminal",
+      "author": "Roxiie",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          69025,
+          68101,
+          66944,
+          66145,
+          65714
+        ]
+      }
+    },
+    {
+      "uid": "dZ1v9Sz3n10wm33gXuo5B0cph9d",
+      "tmx_id": 213841,
+      "name": "Blade-M",
+      "author": "tryhardnubs",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          63948,
+          63044,
+          61807,
+          60938,
+          60500
+        ]
+      }
+    },
+    {
+      "uid": "iEQXCG06qhdtDc_0wSvjmIzWGee",
+      "tmx_id": 207498,
+      "name": "Fizion-L",
+      "author": "Neuro",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          78341,
+          77117,
+          75960,
+          74893,
+          74337
+        ]
+      }
     }
   ]
 }
