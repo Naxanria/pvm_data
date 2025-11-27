@@ -1273,25 +1273,20 @@
       }
     },
     {
-      "uid": "lxdt8MBaj28t4sJy7Kt0CbZvZ4n",
-      "tmx_id": 151153,
+      "uid": "gACknyPEy1_wZgfIkjnYbKjohrj",
+      "tmx_id": 41267,
       "name": "Surreh Milsap",
-      "author": "SkiFreak",
+      "author": "cLM.wp",
       "mod": "",
-      "difficulty": 2,
+      "difficulty": 3,
       "pvm": {
         "grade": "Interstellaire",
         "times": [
           62128,
           61204,
           60397,
-          59747,
-          58943,
-          58016,
           59578,
-          59101,
-          57423,
-          57068
+          59101
         ]
       }
     },
@@ -1418,6 +1413,24 @@
           55776,
           55257,
           54909
+        ]
+      }
+    },
+    {
+      "uid": "lxdt8MBaj28t4sJy7Kt0CbZvZ4n",
+      "tmx_id": 151153,
+      "name": "Zapping",
+      "author": "SkiFreak",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          59747,
+          58943,
+          58016,
+          57423,
+          57068
         ]
       }
     },
