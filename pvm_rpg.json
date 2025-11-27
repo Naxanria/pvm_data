@@ -55,6 +55,25 @@
       }
     },
     {
+      "uid": "mTamN_AnFWEE8nn50gregLIy9zb",
+      "tmx_id": 279354,
+      "name": "Itz\u0027Luum",
+      "author": "YoG",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          70156,
+          65654,
+          63265,
+          62745,
+          60889,
+          59896
+        ]
+      }
+    },
+    {
       "uid": "4R3X1moupj_fNVmtIkM66W69Q1k",
       "tmx_id": 270741,
       "name": "Alter",
@@ -169,25 +188,6 @@
       }
     },
     {
-      "uid": "wx4F6yipGbgpXuY_uuFuYkzHKSb",
-      "tmx_id": 253624,
-      "name": "Hunted House",
-      "author": "Kann",
-      "mod": "https://download.dashmap.live/710f49b8-2b51-453b-a795-83b4022699f6/Hunted_House.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "E",
-        "times": [
-          422435,
-          349025,
-          307522,
-          295896,
-          277982,
-          272485
-        ]
-      }
-    },
-    {
       "uid": "GRtOZvoDiQk8YqTMl1lZhQXuFn0",
       "tmx_id": 212219,
       "name": "Maxed Delve",
@@ -221,7 +221,7 @@
           58354,
           55198,
           53878,
-          -1
+          51873
         ]
       }
     },
@@ -241,6 +241,25 @@
           62190,
           57832,
           56335
+        ]
+      }
+    },
+    {
+      "uid": "aHmBW6Y0V9i0VotUVLHEDIEAL0e",
+      "tmx_id": 267946,
+      "name": "Huntartic",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGWinterV1.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          87664,
+          66549,
+          63035,
+          61585,
+          59254,
+          58398
         ]
       }
     },
@@ -283,21 +302,21 @@
       }
     },
     {
-      "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
-      "tmx_id": 214814,
-      "name": "Onyxtemple",
-      "author": "Onyx_be01",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "uid": "wx4F6yipGbgpXuY_uuFuYkzHKSb",
+      "tmx_id": 253624,
+      "name": "Hunted House",
+      "author": "Kann",
+      "mod": "https://download.dashmap.live/710f49b8-2b51-453b-a795-83b4022699f6/Hunted_House.zip",
       "difficulty": 0,
       "pvm": {
         "grade": "D",
         "times": [
-          355654,
-          270564,
-          243127,
-          240687,
-          226845,
-          218245
+          422435,
+          335025,
+          307522,
+          295896,
+          277982,
+          272485
         ]
       }
     },
@@ -311,9 +330,9 @@
       "pvm": {
         "grade": "D",
         "times": [
-          385365,
-          315354,
-          298483,
+          445365,
+          336354,
+          309483,
           291483,
           279057,
           275734
@@ -355,25 +374,6 @@
           71564,
           68671,
           -1
-        ]
-      }
-    },
-    {
-      "uid": "LpLkFwTQMi0qnR7EsH4jzsEityc",
-      "tmx_id": 212005,
-      "name": "Unveiled Castle",
-      "author": "Kryon_TW",
-      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "C",
-        "times": [
-          183543,
-          140454,
-          121198,
-          115564,
-          106521,
-          101251
         ]
       }
     },
@@ -454,6 +454,25 @@
       }
     },
     {
+      "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
+      "tmx_id": 214814,
+      "name": "Onyxtemple",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          375654,
+          270564,
+          243127,
+          240687,
+          226845,
+          218245
+        ]
+      }
+    },
+    {
       "uid": "bsGPiZm5EfmK0bp_OBNIE7UUaki",
       "tmx_id": 230081,
       "name": "Animus Project",
@@ -506,7 +525,7 @@
           58986,
           54585,
           50982,
-          -1
+          48931
         ]
       }
     },
@@ -526,6 +545,25 @@
           63974,
           60559,
           59098
+        ]
+      }
+    },
+    {
+      "uid": "LpLkFwTQMi0qnR7EsH4jzsEityc",
+      "tmx_id": 212005,
+      "name": "Unveiled Castle",
+      "author": "Kryon_TW",
+      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          183543,
+          140454,
+          121198,
+          115564,
+          106521,
+          101251
         ]
       }
     },
@@ -715,7 +753,7 @@
           302241,
           275741,
           259246,
-          -1
+          256255
         ]
       }
     },
@@ -1252,6 +1290,25 @@
       }
     },
     {
+      "uid": "kX3DlVNgsnvjCkT87U0HDcdWVW",
+      "tmx_id": 270885,
+      "name": "Darak\u00FBn",
+      "author": "Qiraj",
+      "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/ConcreteFoliage_TM2020.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          787266,
+          630548,
+          588656,
+          557001,
+          524658,
+          504774
+        ]
+      }
+    },
+    {
       "uid": "JFSKZXeTOzyhnaU6DBRygKwwRu6",
       "tmx_id": 265840,
       "name": "Biotopia",
@@ -1266,7 +1323,7 @@
           59687,
           55281,
           52953,
-          -1
+          51887
         ]
       }
     },
@@ -1347,21 +1404,21 @@
       }
     },
     {
-      "uid": "kX3DlVNgsnvjCkT87U0HDcdWVW",
-      "tmx_id": 270885,
-      "name": "Darak\u00FBn",
-      "author": "Qiraj",
-      "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/ConcreteFoliage_TM2020.zip",
-      "difficulty": 1,
+      "uid": "pfoSUUHTRmQXxbLLAsIjFKWVmw3",
+      "tmx_id": 280172,
+      "name": "Skywarden",
+      "author": "ziyx",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
+      "difficulty": 3,
       "pvm": {
         "grade": "Tryharder",
         "times": [
-          787266,
-          630548,
-          588656,
-          557001,
-          524658,
-          504774
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ]
       }
     },
@@ -1385,12 +1442,12 @@
       }
     },
     {
-      "uid": "sjm7dx_8Kbx9oef_Y1uhXs7iz88",
-      "tmx_id": 185449,
+      "uid": "",
+      "tmx_id": 277998,
       "name": "Forest Island",
-      "author": "Nitralis",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
-      "difficulty": 2,
+      "author": "",
+      "mod": "",
+      "difficulty": 0,
       "pvm": {
         "grade": "Alien",
         "times": [
@@ -1399,7 +1456,7 @@
           194671,
           185671,
           175496,
-          -1
+          170792
         ]
       }
     },
@@ -1701,7 +1758,7 @@
           1735253,
           895253,
           691564,
-          655253,
+          672253,
           641235,
           636474
         ]
