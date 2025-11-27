@@ -1442,12 +1442,12 @@
       }
     },
     {
-      "uid": "",
-      "tmx_id": 277998,
+      "uid": "sjm7dx_8Kbx9oef_Y1uhXs7iz88",
+      "tmx_id": 185449,
       "name": "Forest Island",
-      "author": "",
-      "mod": "",
-      "difficulty": 0,
+      "author": "Nitralis",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "difficulty": 2,
       "pvm": {
         "grade": "Alien",
         "times": [
