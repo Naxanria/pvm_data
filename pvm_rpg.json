@@ -383,7 +383,7 @@
       "name": "Eon 42",
       "author": "ziyx",
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 2,
+      "difficulty": 1,
       "pvm": {
         "grade": "C",
         "times": [
@@ -687,7 +687,7 @@
       "name": "Obsidius",
       "author": "ziyx",
       "mod": "http://maniacdn.net/Neoriion/InputSpace.zip",
-      "difficulty": 2,
+      "difficulty": 1,
       "pvm": {
         "grade": "A",
         "times": [
@@ -1404,12 +1404,12 @@
       }
     },
     {
-      "uid": "pfoSUUHTRmQXxbLLAsIjFKWVmw3",
+      "uid": "naTs1987Q0pynO5MRo9ZwsgDrj3",
       "tmx_id": 280172,
       "name": "Skywarden",
       "author": "ziyx",
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
-      "difficulty": 3,
+      "difficulty": 2,
       "pvm": {
         "grade": "Tryharder",
         "times": [
@@ -1418,7 +1418,7 @@
           -1,
           -1,
           -1,
-          -1
+          529732
         ]
       }
     },
@@ -1542,7 +1542,7 @@
       "name": "The Heavens",
       "author": "ziyx",
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 3,
+      "difficulty": 2,
       "pvm": {
         "grade": "Legend",
         "times": [
@@ -1862,7 +1862,7 @@
       "name": "Artefact Act II - Downfall",
       "author": "ziyx",
       "mod": "http://maniacdn.net/cime62/RPGEgyptFox.zip",
-      "difficulty": 3,
+      "difficulty": 2,
       "pvm": {
         "grade": "Omniscient",
         "times": [
@@ -2071,7 +2071,7 @@
       "name": "Falling Turtles (CP)",
       "author": "Qiraj",
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 2,
+      "difficulty": 3,
       "pvm": {
         "grade": "God",
         "times": [
@@ -2109,7 +2109,7 @@
       "name": "LAB 77!",
       "author": "Qiraj",
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 1,
+      "difficulty": 2,
       "pvm": {
         "grade": "God",
         "times": [
