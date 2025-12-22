@@ -188,6 +188,25 @@
       }
     },
     {
+      "uid": "IWRLyodITAycPv78RXB26iWWMke",
+      "tmx_id": 284208,
+      "name": "Manta",
+      "author": "Naxanria",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGFort_ZX.zip",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      }
+    },
+    {
       "uid": "GRtOZvoDiQk8YqTMl1lZhQXuFn0",
       "tmx_id": 212219,
       "name": "Maxed Delve",
@@ -314,9 +333,9 @@
           406271,
           313570,
           291933,
-          279654,
-          268345,
-          262931
+          276654,
+          264745,
+          259931
         ]
       }
     },
