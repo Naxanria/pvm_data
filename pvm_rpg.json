@@ -1454,8 +1454,8 @@
           1188358,
           718361,
           603649,
-          579534,
-          530389,
+          587034,
+          544389,
           524732
         ]
       }
@@ -1860,25 +1860,6 @@
       }
     },
     {
-      "uid": "h1GQ2B_gOe1qBhj31YAbcKbhhPi",
-      "tmx_id": 81516,
-      "name": "North Pole Factory",
-      "author": "Mokuura",
-      "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Omniscient",
-        "times": [
-          723459,
-          518459,
-          464324,
-          443459,
-          407127,
-          398944
-        ]
-      }
-    },
-    {
       "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
       "tmx_id": 177289,
       "name": "Oblivion Novice",
@@ -1910,6 +1891,25 @@
           617158,
           561846,
           556354
+        ]
+      }
+    },
+    {
+      "uid": "240Twr4oikyBVR0lHDMgitKb_Sl",
+      "tmx_id": 249589,
+      "name": "Temenos",
+      "author": "DrackusTM",
+      "mod": "http://maniacdn.net/talyon56/CrimeV5-Pylos.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Omniscient",
+        "times": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ]
       }
     },
@@ -1948,6 +1948,25 @@
           355584,
           338231,
           331534
+        ]
+      }
+    },
+    {
+      "uid": "h1GQ2B_gOe1qBhj31YAbcKbhhPi",
+      "tmx_id": 81516,
+      "name": "North Pole Factory",
+      "author": "Mokuura",
+      "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Divin",
+        "times": [
+          723459,
+          518459,
+          464324,
+          443459,
+          407127,
+          398944
         ]
       }
     },
