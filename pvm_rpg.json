@@ -834,6 +834,25 @@
       }
     },
     {
+      "uid": "39E4BB_fwQHZ_wGdrZDu39kyShl",
+      "tmx_id": 286697,
+      "name": "Ser\u0027a K\u0027 uf-rah",
+      "author": "rezyy",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_v1-5_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          112483,
+          81487,
+          76764,
+          74874,
+          72771,
+          70766
+        ]
+      }
+    },
+    {
       "uid": "1yz7jNYUaZHI8vX5CxLulSSDQYh",
       "tmx_id": 246954,
       "name": "Vanilla Taste",
@@ -1904,12 +1923,12 @@
       "pvm": {
         "grade": "Omniscient",
         "times": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
+          1885256,
+          923331,
+          726581,
+          694542,
+          659853,
+          646358
         ]
       }
     },
