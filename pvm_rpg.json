@@ -1708,21 +1708,21 @@
       }
     },
     {
-      "uid": "ZWDc78Lt4vMMhVpdAlXaXL6cvJ1",
-      "tmx_id": 162240,
-      "name": "V\u00F6strau",
-      "author": "Feight",
-      "mod": "http://maniacdn.net/mr_freezz/RPGCastleV1.zip",
+      "uid": "KKxEkFOazlqaGtmXPyBeqi9k4j8",
+      "tmx_id": 287619,
+      "name": "Northern Ruins",
+      "author": "BayronTM",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGWinterAltMain_v1-5_ZX.zip",
       "difficulty": 2,
       "pvm": {
         "grade": "Abyssal",
         "times": [
-          123853,
-          71587,
-          59135,
-          52954,
-          49885,
-          48643
+          115544,
+          76785,
+          71216,
+          67896,
+          64636,
+          63346
         ]
       }
     },
@@ -1818,6 +1818,25 @@
           672253,
           641235,
           636474
+        ]
+      }
+    },
+    {
+      "uid": "ZWDc78Lt4vMMhVpdAlXaXL6cvJ1",
+      "tmx_id": 162240,
+      "name": "V\u00F6strau",
+      "author": "Feight",
+      "mod": "http://maniacdn.net/mr_freezz/RPGCastleV1.zip",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Omniscient",
+        "times": [
+          123853,
+          71587,
+          59135,
+          52954,
+          49885,
+          48643
         ]
       }
     },
