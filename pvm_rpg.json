@@ -758,6 +758,25 @@
       }
     },
     {
+      "uid": "oFFYWB2pnDu8xize4oUNVmQ566b",
+      "tmx_id": 290049,
+      "name": "Innominatus",
+      "author": "Naxanria",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGFort_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A (LEVEL 5)",
+        "times": [
+          298498,
+          219930,
+          201635,
+          195854,
+          187846,
+          178436
+        ]
+      }
+    },
+    {
       "uid": "hNYvII5TmM6xN56UPSpxb2kGYJf",
       "tmx_id": 258965,
       "name": "Vault of secrets",
@@ -1166,12 +1185,31 @@
       "pvm": {
         "grade": "Mythique (LEVEL 8)",
         "times": [
-          388846,
+          371846,
           211846,
           142516,
           135846,
           127890,
           126112
+        ]
+      }
+    },
+    {
+      "uid": "aZxmoPnRJLxYAahh60IlHe_CXH8",
+      "tmx_id": 290418,
+      "name": "Echoes of the Cube",
+      "author": "Scarzor",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_ZX.zip",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Mythique (LEVEL 8)",
+        "times": [
+          390541,
+          241357,
+          196564,
+          187634,
+          175565,
+          168227
         ]
       }
     },
@@ -1185,7 +1223,7 @@
       "pvm": {
         "grade": "Mythique (LEVEL 8)",
         "times": [
-          323254,
+          393254,
           245654,
           216571,
           210541,
@@ -1419,6 +1457,25 @@
           208987,
           193088,
           187241
+        ]
+      }
+    },
+    {
+      "uid": "R3y6TKD6c9jlONJwXncKvBgFkw8",
+      "tmx_id": 288618,
+      "name": "Forgotten Vale",
+      "author": "ziyx",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungleNoSkybox_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Tryharder (LEVEL 10)",
+        "times": [
+          445654,
+          243457,
+          222857,
+          211454,
+          198498,
+          193792
         ]
       }
     },
@@ -1760,7 +1817,26 @@
           268354,
           252123,
           242665,
-          238696
+          237696
+        ]
+      }
+    },
+    {
+      "uid": "xAjwSc8CgV0yOhY4XL3NPOLFcY1",
+      "tmx_id": 289593,
+      "name": "Silent Echo",
+      "author": "Qiraj",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungleNoSkybox_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Abyssal (LEVEL 13)",
+        "times": [
+          613087,
+          351587,
+          272524,
+          261564,
+          247289,
+          238687
         ]
       }
     },
