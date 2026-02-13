@@ -378,6 +378,25 @@
       }
     },
     {
+      "uid": "Jy7LVOV6O1GyrWaaufqswMR08sg",
+      "tmx_id": 294932,
+      "name": "Lost Dynasty",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/d3857b0c-1ab1-4a54-9519-b89873d1d668/castlev2.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D (LEVEL 2)",
+        "times": [
+          481639,
+          344588,
+          313365,
+          304469,
+          296265,
+          294433
+        ]
+      }
+    },
+    {
       "uid": "dd1dHEmoW4r9PTQY4FxRo7Cci4c",
       "tmx_id": 229757,
       "name": "Ruinage",
@@ -771,7 +790,7 @@
           219930,
           201635,
           195854,
-          187846,
+          186146,
           178436
         ]
       }
@@ -1834,7 +1853,7 @@
           613087,
           351587,
           272524,
-          261564,
+          263564,
           247289,
           238687
         ]
