@@ -278,7 +278,7 @@
           63035,
           61585,
           59254,
-          57898
+          57698
         ]
       }
     },
@@ -323,7 +323,7 @@
     {
       "uid": "P5MeyFqjeQp3ryPWADLNA5XFMgf",
       "tmx_id": 282739,
-      "name": "Earth Wound",
+      "name": "Earth Wound\u2B50",
       "author": "Wazix.",
       "mod": "https://download.dashmap.live/695796cd-8b52-48ed-8e46-056d3a241eb3/RPGCrimeAlt_ZX_WZX.zip",
       "difficulty": 1,
@@ -342,7 +342,7 @@
     {
       "uid": "wx4F6yipGbgpXuY_uuFuYkzHKSb",
       "tmx_id": 253624,
-      "name": "Hunted House",
+      "name": "Hunted House\u2B50",
       "author": "Kann",
       "mod": "https://download.dashmap.live/710f49b8-2b51-453b-a795-83b4022699f6/Hunted_House.zip",
       "difficulty": 0,
@@ -855,7 +855,7 @@
     {
       "uid": "xynSlBxhMDZRmItxf3D8Og6cM8",
       "tmx_id": 273721,
-      "name": "Frostguard Citadel",
+      "name": "Frostguard Citadel \uD83C\uDF1F",
       "author": "Roquete.wp",
       "mod": "https://download.dashmap.live/4f0b8dec-eaee-4cf3-bc40-66a983dde494/FrostGuardCitadel_RxZ.zip",
       "difficulty": 1,
@@ -1356,19 +1356,19 @@
       "pvm": {
         "grade": "Astral (LEVEL 9)",
         "times": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
+          389877,
+          261257,
+          238836,
+          228773,
+          218008,
+          211456
         ]
       }
     },
     {
       "uid": "GLWTWYlpD35e8yE5SaJkis_vcs3",
       "tmx_id": 153644,
-      "name": "Treasure Island",
+      "name": "Treasure Island \u2B50",
       "author": "ziyx",
       "mod": "https://assets.wingobear.com/TrackMania/Mods/RPGJungleV1.zip",
       "difficulty": 0,
@@ -1444,7 +1444,7 @@
     {
       "uid": "kX3DlVNgsnvjCkT87U0HDcdWVW",
       "tmx_id": 270885,
-      "name": "Darak\u00FBn",
+      "name": "Darak\u00FBn \u2B50",
       "author": "Qiraj",
       "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/ConcreteFoliage_TM2020.zip",
       "difficulty": 1,
@@ -1513,7 +1513,7 @@
           222857,
           211454,
           198498,
-          193792
+          190792
         ]
       }
     },
@@ -1577,7 +1577,7 @@
     {
       "uid": "naTs1987Q0pynO5MRo9ZwsgDrj3",
       "tmx_id": 280172,
-      "name": "Skywarden",
+      "name": "Skywarden \u2B50",
       "author": "ziyx",
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
       "difficulty": 2,
@@ -1748,7 +1748,7 @@
     {
       "uid": "2oXMEQuMp3DHZqOD48SMIA0PA48",
       "tmx_id": 102656,
-      "name": "Artefact Act III  Kepler-B23",
+      "name": "Artefact Act III - Kepler-B23",
       "author": "Heasto",
       "mod": "https://download.dashmap.live/76c4dda6-d600-4b4e-a162-c6eac82662d4/RPGAsteroid.zip?1111111111",
       "difficulty": 2,
@@ -1881,7 +1881,7 @@
     {
       "uid": "KC3vt7_dzgeDjdccn6ANeOPPwJg",
       "tmx_id": 111933,
-      "name": "Tower",
+      "name": "Tower \u2B50",
       "author": "NeoriionTM",
       "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
       "difficulty": 1,
@@ -1919,7 +1919,7 @@
     {
       "uid": "d1I0RQQLjvUJLOmy9kiZDGX5E4e",
       "tmx_id": 141492,
-      "name": "Mindor",
+      "name": "Mindor \uD83C\uDF1F",
       "author": "Yannex",
       "mod": "https://dl.dropboxusercontent.com/scl/fi/z9q67lhk2ntheqqz2p7q1/Mindor.zip?rlkey=mwwrg5hfkvjyet3pel7p0ss7m\u0026amp;dl=0",
       "difficulty": 1,
@@ -2049,7 +2049,7 @@
     {
       "uid": "1qDStYkG0z8bGaYA5YLaAt6vJC1",
       "tmx_id": 83360,
-      "name": "Artefact Act II - Downfall",
+      "name": "Artefact Act II  Downfall \uD83C\uDF1F",
       "author": "ziyx",
       "mod": "http://maniacdn.net/cime62/RPGEgyptFox.zip",
       "difficulty": 2,
@@ -2087,7 +2087,7 @@
     {
       "uid": "HcN62vp2D2lBYQX_mxukXjre1t",
       "tmx_id": 120839,
-      "name": "Concrete",
+      "name": "Concrete \u2B50",
       "author": "bmx22c",
       "mod": "http://maniacdn.net/bmx22c/Concrete_TM2020.zip",
       "difficulty": 1,
@@ -2106,7 +2106,7 @@
     {
       "uid": "K1L_OIXsHSe1XglWz53I8UmK5S6",
       "tmx_id": 117963,
-      "name": "Quandary Islands",
+      "name": "Quandary Islands \u2B50",
       "author": "Qiraj",
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
@@ -2138,6 +2138,25 @@
           443459,
           407127,
           398944
+        ]
+      }
+    },
+    {
+      "uid": "bSa_hx75S23SzbEw5QnRaVzjxkl",
+      "tmx_id": 298753,
+      "name": "Labyrinth",
+      "author": "Scarzor",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_v2-0_ZX.zip",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Divin (LEVEL 15)",
+        "times": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ]
       }
     },
