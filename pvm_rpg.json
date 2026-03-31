@@ -36,21 +36,21 @@
   },
   "maps": [
     {
-      "uid": "s2RbP0MFUbEDTWR12JIITl7wiJ",
-      "tmx_id": 22525,
-      "name": "Dimensions",
-      "author": "Qiraj",
-      "mod": "http://maniacdn.net/qiraj/RPGCrimeRuins.zip",
-      "difficulty": 0,
+      "uid": "aHmBW6Y0V9i0VotUVLHEDIEAL0e",
+      "tmx_id": 267946,
+      "name": "Huntartic",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGWinterV1.zip",
+      "difficulty": 1,
       "pvm": {
         "grade": "E (LEVEL 1)",
         "times": [
-          52652,
-          45358,
-          43153,
-          42453,
-          39525,
-          38081
+          87664,
+          66549,
+          63035,
+          61585,
+          59254,
+          57698
         ]
       }
     },
@@ -70,25 +70,6 @@
           62745,
           60889,
           59896
-        ]
-      }
-    },
-    {
-      "uid": "4R3X1moupj_fNVmtIkM66W69Q1k",
-      "tmx_id": 270741,
-      "name": "Alter",
-      "author": "Heasto",
-      "mod": "https://download.dashmap.live/76c4dda6-d600-4b4e-a162-c6eac82662d4/RPGTP.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "E (LEVEL 1)",
-        "times": [
-          102404,
-          82654,
-          75531,
-          72983,
-          70819,
-          67213
         ]
       }
     },
@@ -131,44 +112,6 @@
       }
     },
     {
-      "uid": "joRWnZd7pntImYcqXchbWnNObmm",
-      "tmx_id": 21695,
-      "name": "Universe",
-      "author": "ziyx",
-      "mod": "http://maniacdn.net/Neoriion/InputSpace.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "E (LEVEL 1)",
-        "times": [
-          175254,
-          142574,
-          131574,
-          129574,
-          121789,
-          119031
-        ]
-      }
-    },
-    {
-      "uid": "WeApU1xrz4469h9TDqe1B8y6c77",
-      "tmx_id": 215453,
-      "name": "Factorange",
-      "author": "Onyx_be01",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGWinterV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "E (LEVEL 1)",
-        "times": [
-          345542,
-          260364,
-          209457,
-          204541,
-          197348,
-          190852
-        ]
-      }
-    },
-    {
       "uid": "kceuFYWpZvibessXtPI4fiz__b9",
       "tmx_id": 167623,
       "name": "Blanc",
@@ -184,6 +127,25 @@
           285158,
           269688,
           263117
+        ]
+      }
+    },
+    {
+      "uid": "A90ME1YRBI5cP77unEq1ShPJ8de",
+      "tmx_id": 187211,
+      "name": "Titan Abyss",
+      "author": "Qiraj",
+      "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/RPGEgypt24.zip",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "E (LEVEL 1)",
+        "times": [
+          445322,
+          345450,
+          338451,
+          324102,
+          311550,
+          305004
         ]
       }
     },
@@ -226,78 +188,21 @@
       }
     },
     {
-      "uid": "JSqnB9yZ_BfBT309LmYxsDACJCl",
-      "tmx_id": 266216,
-      "name": "Oresie",
-      "author": "Qiraj",
-      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrimeFlip_ZX.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D (LEVEL 2)",
-        "times": [
-          121566,
-          65235,
-          58354,
-          55198,
-          53878,
-          51873
-        ]
-      }
-    },
-    {
-      "uid": "LoZRvfX6aNLKd7a7sLmsGSYkApb",
-      "tmx_id": 116473,
-      "name": "Island Escape",
-      "author": "Anonyme_Herotax",
-      "mod": "http://maniacdn.net/mr_freezz/RPGCrimeV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "D (LEVEL 2)",
-        "times": [
-          82654,
-          65851,
-          62844,
-          62190,
-          57832,
-          56335
-        ]
-      }
-    },
-    {
-      "uid": "aHmBW6Y0V9i0VotUVLHEDIEAL0e",
-      "tmx_id": 267946,
-      "name": "Huntartic",
-      "author": "Onyx_be01",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGWinterV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "D (LEVEL 2)",
-        "times": [
-          87664,
-          66549,
-          63035,
-          61585,
-          59254,
-          57698
-        ]
-      }
-    },
-    {
-      "uid": "c_yS7TKsuGaBwefasIO_8SGqQG4",
-      "tmx_id": 107335,
-      "name": "Walk In The Maze",
-      "author": "Anonyme_Herotax",
-      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
+      "uid": "4R3X1moupj_fNVmtIkM66W69Q1k",
+      "tmx_id": 270741,
+      "name": "Alter",
+      "author": "Heasto",
+      "mod": "https://download.dashmap.live/76c4dda6-d600-4b4e-a162-c6eac82662d4/RPGTP.zip",
       "difficulty": 2,
       "pvm": {
         "grade": "D (LEVEL 2)",
         "times": [
-          115485,
-          72658,
-          65257,
-          63850,
-          62298,
-          61168
+          102404,
+          82654,
+          75531,
+          72983,
+          70819,
+          67213
         ]
       }
     },
@@ -317,6 +222,25 @@
           181453,
           176133,
           172287
+        ]
+      }
+    },
+    {
+      "uid": "WeApU1xrz4469h9TDqe1B8y6c77",
+      "tmx_id": 215453,
+      "name": "Factorange",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGWinterV1.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D (LEVEL 2)",
+        "times": [
+          345542,
+          260364,
+          209457,
+          204541,
+          197348,
+          190852
         ]
       }
     },
@@ -359,25 +283,6 @@
       }
     },
     {
-      "uid": "V8_dhyOP38uU1OcZ2SSWZVxuxc4",
-      "tmx_id": 195471,
-      "name": "Kannicule",
-      "author": "Kann",
-      "mod": "http://maniacdn.net/mr_freezz/RPGCrimeV1.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D (LEVEL 2)",
-        "times": [
-          445365,
-          336354,
-          309483,
-          291483,
-          279057,
-          275734
-        ]
-      }
-    },
-    {
       "uid": "Jy7LVOV6O1GyrWaaufqswMR08sg",
       "tmx_id": 294932,
       "name": "Lost Dynasty",
@@ -404,7 +309,7 @@
       "mod": "https://download.dashmap.live/4f507640-c862-45f1-9a21-1e05ed91eb82/Jungle_Natrium.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           75559,
           62366,
@@ -416,21 +321,40 @@
       }
     },
     {
-      "uid": "ztXbqwCBmmc8QXI3Kj9nf9hj8Y5",
-      "tmx_id": 258025,
-      "name": "Saqqarah",
-      "author": "Lepaing",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGEgyptV1.zip",
-      "difficulty": 1,
+      "uid": "4ZYaiJUBhNUJeZo5VGyO7Ij_0wi",
+      "tmx_id": 300604,
+      "name": "K\u0027 aer",
+      "author": "rezyy",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGWitcher_ZX.zip",
+      "difficulty": 2,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
-          161258,
-          97121,
-          83201,
-          71564,
-          68671,
-          67108
+          88854,
+          78644,
+          69584,
+          66725,
+          64058,
+          63287
+        ]
+      }
+    },
+    {
+      "uid": "wZ_jtVAa6r_p6_3058Ly5Q6a7wa",
+      "tmx_id": 135496,
+      "name": "Water Fall",
+      "author": "PurpleLyle",
+      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          216331,
+          172023,
+          158487,
+          151545,
+          144759,
+          142087
         ]
       }
     },
@@ -442,7 +366,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           217442,
           172452,
@@ -461,7 +385,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           296325,
           205852,
@@ -473,25 +397,6 @@
       }
     },
     {
-      "uid": "1XYdV9y85Jp6xYBtl4STN2vpirh",
-      "tmx_id": 16609,
-      "name": "Late To The Match",
-      "author": "Yannex",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "C (LEVEL 3)",
-        "times": [
-          315056,
-          255952,
-          217354,
-          206784,
-          195880,
-          191555
-        ]
-      }
-    },
-    {
       "uid": "FP2Hjj28CEeQKqt8DgEQFZCT5Q9",
       "tmx_id": 243127,
       "name": "Hiking\nOf The Hill",
@@ -499,7 +404,7 @@
       "mod": "https://download.dashmap.live/9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd/WWC_Russia.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           374254,
           267524,
@@ -518,7 +423,7 @@
       "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
       "difficulty": 0,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           375654,
           270564,
@@ -537,7 +442,7 @@
       "mod": "https://gitlab.com/raikuzjl/tm-mods/-/raw/main/AnimusProject.zip?ref_type=heads",
       "difficulty": 1,
       "pvm": {
-        "grade": "C (LEVEL 3)",
+        "grade": "C",
         "times": [
           455415,
           403940,
@@ -568,25 +473,6 @@
       }
     },
     {
-      "uid": "tVx8rkvXhsglU0oA3xrqD8ZH6Qf",
-      "tmx_id": 245397,
-      "name": "Orisha",
-      "author": "Anonyme_Herotax",
-      "mod": "https://download.dashmap.live/f4dc1af7-3bce-402f-aeae-44aae841b0c6/RpgOrisha.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "B (LEVEL 4)",
-        "times": [
-          111365,
-          69636,
-          58986,
-          54585,
-          50982,
-          48931
-        ]
-      }
-    },
-    {
       "uid": "w7dmrwydNQn0wf6WSVR1uYagJaj",
       "tmx_id": 195488,
       "name": "Fugus",
@@ -606,25 +492,6 @@
       }
     },
     {
-      "uid": "LpLkFwTQMi0qnR7EsH4jzsEityc",
-      "tmx_id": 212005,
-      "name": "Unveiled Castle",
-      "author": "Kryon_TW",
-      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "B (LEVEL 4)",
-        "times": [
-          183543,
-          140454,
-          121198,
-          115564,
-          106521,
-          101251
-        ]
-      }
-    },
-    {
       "uid": "HzpksxcZeuJ6cGDZlw55T_fldx5",
       "tmx_id": 63913,
       "name": "Ora 7",
@@ -640,6 +507,25 @@
           172456,
           164675,
           162574
+        ]
+      }
+    },
+    {
+      "uid": "7eDdXl2tVkAcsTA14TZ0Mtkk7Ua",
+      "tmx_id": 300198,
+      "name": "Atlas Ruinica",
+      "author": "rampen88",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGFort_v2-0_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B (LEVEL 4)",
+        "times": [
+          357996,
+          243654,
+          225584,
+          217688,
+          206846,
+          201686
         ]
       }
     },
@@ -682,21 +568,21 @@
       }
     },
     {
-      "uid": "A90ME1YRBI5cP77unEq1ShPJ8de",
-      "tmx_id": 187211,
-      "name": "Titan Abyss",
-      "author": "Qiraj",
-      "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/RPGEgypt24.zip",
-      "difficulty": 0,
+      "uid": "E1X668U1adHolQy_QWKZ2EJ3ELe",
+      "tmx_id": 301288,
+      "name": "Colony",
+      "author": "SirTalyon",
+      "mod": "http://maniacdn.net/talyon56/Futuristica3.zip",
+      "difficulty": 1,
       "pvm": {
         "grade": "B (LEVEL 4)",
         "times": [
-          445322,
-          345450,
-          338451,
-          324102,
-          309850,
-          305004
+          527488,
+          423897,
+          405972,
+          398032,
+          381655,
+          376654
         ]
       }
     },
@@ -735,44 +621,6 @@
           122671,
           118945,
           116676
-        ]
-      }
-    },
-    {
-      "uid": "OWBVtrP1kzQm_DPNL4mkLA0W2Fh",
-      "tmx_id": 63916,
-      "name": "Obsidius",
-      "author": "ziyx",
-      "mod": "http://maniacdn.net/Neoriion/InputSpace.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A (LEVEL 5)",
-        "times": [
-          264564,
-          204958,
-          171324,
-          163285,
-          155852,
-          152047
-        ]
-      }
-    },
-    {
-      "uid": "xgJ7ssXxzrFzN1TvtmU9eGhT8Qf",
-      "tmx_id": 19327,
-      "name": "Chantier",
-      "author": "Sympthome",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A (LEVEL 5)",
-        "times": [
-          268542,
-          181874,
-          175003,
-          166523,
-          156785,
-          154741
         ]
       }
     },
@@ -891,25 +739,6 @@
       }
     },
     {
-      "uid": "1yz7jNYUaZHI8vX5CxLulSSDQYh",
-      "tmx_id": 246954,
-      "name": "Vanilla Taste",
-      "author": "Wazix.",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGEgyptV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "S (LEVEL 6)",
-        "times": [
-          158554,
-          101225,
-          94965,
-          91251,
-          86765,
-          85244
-        ]
-      }
-    },
-    {
       "uid": "JTu04iOIEjJGyha2SeGemNta8Pe",
       "tmx_id": 260743,
       "name": "Evergloom",
@@ -986,25 +815,6 @@
       }
     },
     {
-      "uid": "joeDPCOeI6flkgHgvX4EHLZHEEc",
-      "tmx_id": 254086,
-      "name": "Escape \nThe Heat",
-      "author": "Qiraj",
-      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrimeFlip_ZX.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "S (LEVEL 6)",
-        "times": [
-          493322,
-          344855,
-          319970,
-          298936,
-          288411,
-          286698
-        ]
-      }
-    },
-    {
       "uid": "iwbXsDvhgHfj_pnshAz4OME7NR4",
       "tmx_id": 224823,
       "name": "Pylos",
@@ -1043,6 +853,25 @@
       }
     },
     {
+      "uid": "UZd90FPA2fMqfgjpi3tTDUIPcPa",
+      "tmx_id": 63908,
+      "name": "Scar",
+      "author": "Qiraj",
+      "mod": "http://maniacdn.net/mr_freezz/RPGEgyptV1.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "SS (LEVEL 7)",
+        "times": [
+          371846,
+          211846,
+          142516,
+          135846,
+          127890,
+          126112
+        ]
+      }
+    },
+    {
       "uid": "Air9gyToeJCuNain5_PumrY9I5g",
       "tmx_id": 229959,
       "name": "Satis",
@@ -1076,26 +905,7 @@
           235151,
           222921,
           214412,
-          207543
-        ]
-      }
-    },
-    {
-      "uid": "gzzVhgA9TBx6hWbk4LYwI9zbtK3",
-      "tmx_id": 21634,
-      "name": "La Berra",
-      "author": "Yannex",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "SS (LEVEL 7)",
-        "times": [
-          415125,
-          285125,
-          241615,
-          231125,
-          216546,
-          206690
+          205543
         ]
       }
     },
@@ -1176,139 +986,6 @@
       }
     },
     {
-      "uid": "HsLqyQrjdcuKC9zihdbF6RDBTMc",
-      "tmx_id": 111558,
-      "name": "Freezing",
-      "author": "blackpulse",
-      "mod": "http://maniacdn.net/mr_freezz/RPGWinterV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          103623,
-          65896,
-          63165,
-          61365,
-          58493,
-          57689
-        ]
-      }
-    },
-    {
-      "uid": "UZd90FPA2fMqfgjpi3tTDUIPcPa",
-      "tmx_id": 63908,
-      "name": "Scar",
-      "author": "Qiraj",
-      "mod": "http://maniacdn.net/mr_freezz/RPGEgyptV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          371846,
-          211846,
-          142516,
-          135846,
-          127890,
-          126112
-        ]
-      }
-    },
-    {
-      "uid": "aZxmoPnRJLxYAahh60IlHe_CXH8",
-      "tmx_id": 290418,
-      "name": "Echoes of the Cube",
-      "author": "Scarzor",
-      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_ZX.zip",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          390541,
-          241357,
-          196564,
-          187634,
-          171701,
-          164227
-        ]
-      }
-    },
-    {
-      "uid": "Gif68iFPj9yKrUc2sBhjTpFLLK2",
-      "tmx_id": 160723,
-      "name": "Lodeie",
-      "author": "delaweed",
-      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          393254,
-          245654,
-          216571,
-          210541,
-          195545,
-          190876
-        ]
-      }
-    },
-    {
-      "uid": "thsEoe9kCQfGjNKINuKrpvmaiJ2",
-      "tmx_id": 20654,
-      "name": "KingSlayer",
-      "author": "ziyx",
-      "mod": "http://maniacdn.net/Neoriion/RPGCrimeV5.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          405258,
-          270125,
-          233422,
-          224555,
-          215453,
-          210692
-        ]
-      }
-    },
-    {
-      "uid": "3eQz1tNZpf7o_iI7ukSwCVB25Jk",
-      "tmx_id": 266080,
-      "name": "DeepSeated",
-      "author": "Onyx_be01",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          407365,
-          272564,
-          246635,
-          234796,
-          222449,
-          211545
-        ]
-      }
-    },
-    {
-      "uid": "HEE3QKCf_A1SLmsxx8DpKnE5hW",
-      "tmx_id": 23871,
-      "name": "Centaurus",
-      "author": "Krokro",
-      "mod": "http://maniacdn.net/mr_freezz/RPGSpaceV1.zip",
-      "difficulty": 3,
-      "pvm": {
-        "grade": "Mythique (LEVEL 8)",
-        "times": [
-          715158,
-          553543,
-          461294,
-          435294,
-          399236,
-          376527
-        ]
-      }
-    },
-    {
       "uid": "ZuaWBZMRRbwUNVm_3TBGzt3KdB2",
       "tmx_id": 240888,
       "name": "Paradisus Insula",
@@ -1316,7 +993,7 @@
       "mod": "https://assets.wingobear.com/TrackMania/Mods/RPGJungleV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           108524,
           71354,
@@ -1328,21 +1005,21 @@
       }
     },
     {
-      "uid": "ZiSuJme5AehZfSn7AxMfJoSolp6",
-      "tmx_id": 127367,
-      "name": "Castle Rush",
-      "author": "akimaNN7",
-      "mod": "RPGJungleV1",
-      "difficulty": 2,
+      "uid": "aZxmoPnRJLxYAahh60IlHe_CXH8",
+      "tmx_id": 290418,
+      "name": "Echoes of the Cube",
+      "author": "Scarzor",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_ZX.zip",
+      "difficulty": 3,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
-          201178,
-          134109,
-          129561,
-          122178,
-          119109,
-          116785
+          390541,
+          241357,
+          196564,
+          187634,
+          171701,
+          164227
         ]
       }
     },
@@ -1354,7 +1031,7 @@
       "mod": "https://download.dashmap.live/87f31217-9e30-4d9d-b4f4-4f81d8b8e4c3/RPGSpacexHL-Light.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           389877,
           261257,
@@ -1373,7 +1050,7 @@
       "mod": "https://assets.wingobear.com/TrackMania/Mods/RPGJungleV1.zip",
       "difficulty": 0,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           408125,
           275125,
@@ -1385,25 +1062,6 @@
       }
     },
     {
-      "uid": "38jDE_pz3ueXHDpl48d2hxwvpU3",
-      "tmx_id": 26725,
-      "name": "Mistophoros",
-      "author": "Heasto",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Astral (LEVEL 9)",
-        "times": [
-          477112,
-          330415,
-          282321,
-          269978,
-          256897,
-          251539
-        ]
-      }
-    },
-    {
       "uid": "1fSGqBoCVcACo3dnVgFMaYwBO82",
       "tmx_id": 246951,
       "name": "Where Dreams Go To Sleep",
@@ -1411,7 +1069,7 @@
       "mod": "https://download.dashmap.live/4f507640-c862-45f1-9a21-1e05ed91eb82/WhereDreamsGoToSleep.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           462558,
           318714,
@@ -1430,7 +1088,7 @@
       "mod": "https://download.dashmap.live/8cad3f97-4222-49ae-88f3-776d380dfb9b/Room.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           607102,
           537524,
@@ -1449,7 +1107,7 @@
       "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/ConcreteFoliage_TM2020.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Astral (LEVEL 9)",
+        "grade": "Astral (LEVEL 8)",
         "times": [
           787266,
           630548,
@@ -1468,7 +1126,7 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungle_ZX.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           105224,
           69245,
@@ -1480,21 +1138,21 @@
       }
     },
     {
-      "uid": "cW_8NKNhaFs2nLUk0tWSziyvD5h",
-      "tmx_id": 19557,
-      "name": "Lost Temple",
-      "author": "ziyx",
-      "mod": "http://download947.mediafire.com/cfml3oj45tvg/00ltz6umxoifmht/EgyptModV2PBR.zip",
-      "difficulty": 2,
+      "uid": "R9Q2UOCP77I6UrGWYAUk0UzdhVm",
+      "tmx_id": 252027,
+      "name": "Forest Island",
+      "author": "Nitralis",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "difficulty": 1,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
-          415062,
-          271587,
-          219513,
-          208987,
-          193088,
-          187241
+          365671,
+          200458,
+          194671,
+          185671,
+          175496,
+          170792
         ]
       }
     },
@@ -1506,7 +1164,7 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungleNoSkybox_ZX.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           445654,
           243457,
@@ -1525,7 +1183,7 @@
       "mod": "http://maniacdn.net/qiraj/RPGCrimeRuins.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           575125,
           439652,
@@ -1544,7 +1202,7 @@
       "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGEgyptFox.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           595145,
           359521,
@@ -1563,7 +1221,7 @@
       "mod": "http://maniacdn.net/chuckie/Mods/RPGTurbulent.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           615112,
           435415,
@@ -1575,101 +1233,6 @@
       }
     },
     {
-      "uid": "naTs1987Q0pynO5MRo9ZwsgDrj3",
-      "tmx_id": 280172,
-      "name": "Skywarden \u2B50",
-      "author": "ziyx",
-      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Tryharder (LEVEL 10)",
-        "times": [
-          1188358,
-          718361,
-          603649,
-          587034,
-          544389,
-          524732
-        ]
-      }
-    },
-    {
-      "uid": "mbGPHSBjbzxxtxKwanPAOmwt1Ii",
-      "tmx_id": 106104,
-      "name": "Castle of Heasto",
-      "author": "Heasto",
-      "mod": "https://cdn.discordapp.com/attachments/751520756134969394/1103143626558672976/RPGCastleV1.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Alien (LEVEL 11)",
-        "times": [
-          122963,
-          65999,
-          64863,
-          63963,
-          61452,
-          59987
-        ]
-      }
-    },
-    {
-      "uid": "R9Q2UOCP77I6UrGWYAUk0UzdhVm",
-      "tmx_id": 252027,
-      "name": "Forest Island",
-      "author": "Nitralis",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Alien (LEVEL 11)",
-        "times": [
-          365671,
-          200458,
-          194671,
-          185671,
-          175496,
-          170792
-        ]
-      }
-    },
-    {
-      "uid": "Jeyd4IZgvGwIb_i_cvmgG47MqMf",
-      "tmx_id": 72155,
-      "name": "Octahedron City",
-      "author": "Mokuura",
-      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Alien (LEVEL 11)",
-        "times": [
-          445166,
-          279336,
-          247564,
-          238555,
-          222897,
-          214863
-        ]
-      }
-    },
-    {
-      "uid": "clld04sSyQP7bycqzosLfGtj5Ij",
-      "tmx_id": 88182,
-      "name": "Utopium",
-      "author": "fzztichta",
-      "mod": "https://nadeo-download.cdn.ubi.com/trackmania/assets/Cupra/Mod/NeoCupraVelocity.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Alien (LEVEL 11)",
-        "times": [
-          529840,
-          435152,
-          394564,
-          379652,
-          368463,
-          296882
-        ]
-      }
-    },
-    {
       "uid": "O6yoii56zRDb1sS60kcW5Tqic57",
       "tmx_id": 145975,
       "name": "Chromatic Enigma",
@@ -1677,7 +1240,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "Alien (LEVEL 11)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
           661039,
           475774,
@@ -1689,21 +1252,21 @@
       }
     },
     {
-      "uid": "fACU8LTA3VfkbIXE6DO0s7jerWb",
-      "tmx_id": 38829,
-      "name": "Cave de Toutataton ",
-      "author": "Gragarda",
-      "mod": "http://maniacdn.net/mr_freezz/RPGEgyptV1.zip",
+      "uid": "naTs1987Q0pynO5MRo9ZwsgDrj3",
+      "tmx_id": 280172,
+      "name": "Skywarden \u2B50",
+      "author": "ziyx",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGCrime_ZX.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Alien (LEVEL 11)",
+        "grade": "Tryharder (LEVEL 9)",
         "times": [
-          886215,
-          591123,
-          482873,
-          468123,
-          438325,
-          434798
+          1188358,
+          718361,
+          603649,
+          587034,
+          544389,
+          524732
         ]
       }
     },
@@ -1715,7 +1278,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           79315,
           51253,
@@ -1727,6 +1290,25 @@
       }
     },
     {
+      "uid": "mbGPHSBjbzxxtxKwanPAOmwt1Ii",
+      "tmx_id": 106104,
+      "name": "Castle of Heasto",
+      "author": "Heasto",
+      "mod": "https://cdn.discordapp.com/attachments/751520756134969394/1103143626558672976/RPGCastleV1.zip",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Legend (LEVEL 10)",
+        "times": [
+          122963,
+          65999,
+          64863,
+          63963,
+          61452,
+          59987
+        ]
+      }
+    },
+    {
       "uid": "QiclhwYNLzjWxKkNRPEc9Qv6Y1l",
       "tmx_id": 58907,
       "name": "Celest",
@@ -1734,7 +1316,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           331548,
           251147,
@@ -1753,7 +1335,7 @@
       "mod": "https://download.dashmap.live/76c4dda6-d600-4b4e-a162-c6eac82662d4/RPGAsteroid.zip?1111111111",
       "difficulty": 2,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           652253,
           417569,
@@ -1772,7 +1354,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGCrimeV1.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           695489,
           465489,
@@ -1791,7 +1373,7 @@
       "mod": "https://download.dashmap.live/4f507640-c862-45f1-9a21-1e05ed91eb82/Jungle_Natrium.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           1105574,
           502251,
@@ -1810,7 +1392,7 @@
       "mod": "RPGJungleV1",
       "difficulty": 1,
       "pvm": {
-        "grade": "Legend (LEVEL 12)",
+        "grade": "Legend (LEVEL 10)",
         "times": [
           1753235,
           1065201,
@@ -1829,7 +1411,7 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGWinterAltMain_v1-5_ZX.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           115544,
           76785,
@@ -1848,7 +1430,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGEgyptV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           567236,
           345123,
@@ -1867,14 +1449,14 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungleNoSkybox_ZX.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           613087,
           351587,
           272524,
           263564,
           247289,
-          238687
+          235687
         ]
       }
     },
@@ -1886,7 +1468,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           938874,
           565354,
@@ -1905,7 +1487,7 @@
       "mod": "http://maniacdn.net/thomeursyd/Half_life_Mod_TM2020/City17.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           983235,
           625258,
@@ -1924,7 +1506,7 @@
       "mod": "https://dl.dropboxusercontent.com/scl/fi/z9q67lhk2ntheqqz2p7q1/Mindor.zip?rlkey=mwwrg5hfkvjyet3pel7p0ss7m\u0026amp;dl=0",
       "difficulty": 1,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           1378654,
           763784,
@@ -1943,7 +1525,7 @@
       "mod": "http://maniacdn.net/thomeursyd/Half_life_Mod_TM2020/Halflife.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Abyssal (LEVEL 13)",
+        "grade": "Abyssal (LEVEL 11)",
         "times": [
           1735253,
           895253,
@@ -1962,7 +1544,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGCastleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           123853,
           71587,
@@ -1974,25 +1556,6 @@
       }
     },
     {
-      "uid": "HZV7esJsLxvNsPG6q2hD6TyFMu5",
-      "tmx_id": 266623,
-      "name": "Ch\u00E9loniens",
-      "author": "delaweed",
-      "mod": "https://download.dashmap.live/4f507640-c862-45f1-9a21-1e05ed91eb82/Mundum.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
-        "times": [
-          1136297,
-          418118,
-          302543,
-          272122,
-          255251,
-          247251
-        ]
-      }
-    },
-    {
       "uid": "GqbYvMjDPu_LW3G813HTCamZEP5",
       "tmx_id": 50566,
       "name": "Jungle",
@@ -2000,7 +1563,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           643598,
           463598,
@@ -2019,7 +1582,7 @@
       "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/RPGFuturaGreen.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           1113432,
           495796,
@@ -2031,22 +1594,6 @@
       }
     },
     {
-      "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
-      "tmx_id": 177289,
-      "name": "Oblivion Novice",
-      "author": "Qiraj",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGCrimeV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
-        "times": [
-          1545000,
-          731258,
-          502245
-        ]
-      }
-    },
-    {
       "uid": "1qDStYkG0z8bGaYA5YLaAt6vJC1",
       "tmx_id": 83360,
       "name": "Artefact Act II  Downfall \uD83C\uDF1F",
@@ -2054,7 +1601,7 @@
       "mod": "http://maniacdn.net/cime62/RPGEgyptFox.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           1657384,
           797647,
@@ -2073,7 +1620,7 @@
       "mod": "http://maniacdn.net/talyon56/CrimeV5-Pylos.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           1885256,
           923331,
@@ -2092,7 +1639,7 @@
       "mod": "http://maniacdn.net/bmx22c/Concrete_TM2020.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
+        "grade": "Omniscient (LEVEL 12)",
         "times": [
           2980812,
           2159458,
@@ -2111,7 +1658,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
           1514584,
           598231,
@@ -2130,7 +1677,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
           723459,
           518459,
@@ -2149,14 +1696,14 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGSaw_v2-0_ZX.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
+          751584,
+          522687,
+          465586,
+          445764,
+          411150,
+          400564
         ]
       }
     },
@@ -2168,7 +1715,7 @@
       "mod": "https://media.githubusercontent.com/media/glocom/TMPortalMod/master/PortalModV9.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
           2370487,
           1290389,
@@ -2187,7 +1734,7 @@
       "mod": "https://download.dashmap.live/8b8eab44-34ce-4b16-91d3-3aec812af72d/CrimeFlip.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
           2805548,
           1945256,
@@ -2199,25 +1746,6 @@
       }
     },
     {
-      "uid": "_5AnE4Yw_RseRHXWR5H5D5PomId",
-      "tmx_id": 26389,
-      "name": "A NIGHT IN TOKYO",
-      "author": "Banano_TV",
-      "mod": "http://maniacdn.net/bananophile/TokyoNight.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Divin (LEVEL 15)",
-        "times": [
-          2925258,
-          2145258,
-          1413876,
-          1056258,
-          959489,
-          932993
-        ]
-      }
-    },
-    {
       "uid": "cXaZQQZLQDZjHwg2EOf7wPGCGdb",
       "tmx_id": 29450,
       "name": "Rubik\u0027s Cube",
@@ -2225,7 +1753,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "Divin (LEVEL 15)",
+        "grade": "Divin (LEVEL 13)",
         "times": [
           4530852,
           2730458,
@@ -2237,25 +1765,6 @@
       }
     },
     {
-      "uid": "Eo8fMTACtYGZ4YaWEh36tTdsqz8",
-      "tmx_id": 204908,
-      "name": "The 100  Carcassonne",
-      "author": "fzztichta",
-      "mod": "http://maniacdn.net/mr_freezz/RPGEgyptV1.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "Divin (LEVEL 15)",
-        "times": [
-          5214541,
-          3332547,
-          2400354,
-          2280000,
-          1860000,
-          1852874
-        ]
-      }
-    },
-    {
       "uid": "tMrLGgNR5BrAO2pBv_VQB7JJ8h9",
       "tmx_id": 140511,
       "name": "Castle Rush 3",
@@ -2263,7 +1772,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           1065658,
           395547,
@@ -2282,7 +1791,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGSpaceV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           1901564,
           647561,
@@ -2301,7 +1810,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           2755125,
           1375125,
@@ -2320,7 +1829,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           5269439,
           3169439,
@@ -2339,7 +1848,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGFuturaV1.zip",
       "difficulty": 3,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           5387456,
           3505256,
@@ -2358,7 +1867,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "God (LEVEL 16)",
+        "grade": "God (LEVEL 14)",
         "times": [
           5850158,
           3900000,
@@ -2366,22 +1875,6 @@
           1788125,
           1488845,
           1439225
-        ]
-      }
-    },
-    {
-      "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
-      "tmx_id": 78381,
-      "name": "Oblivion",
-      "author": "Qiraj",
-      "mod": "http://maniacdn.net/mr_freezz/RPGCrimeV1.zip",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "Omniscient (LEVEL 14)",
-        "times": [
-          489415,
-          462123,
-          448821
         ]
       }
     }
