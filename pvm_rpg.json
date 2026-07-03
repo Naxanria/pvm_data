@@ -264,25 +264,6 @@
       }
     },
     {
-      "uid": "wx4F6yipGbgpXuY_uuFuYkzHKSb",
-      "tmx_id": 253624,
-      "name": "Hunted House\u2B50",
-      "author": "Kann",
-      "mod": "https://download.dashmap.live/710f49b8-2b51-453b-a795-83b4022699f6/Hunted_House.zip",
-      "difficulty": 0,
-      "pvm": {
-        "grade": "D (LEVEL 2)",
-        "times": [
-          422435,
-          335025,
-          307522,
-          295896,
-          277982,
-          272485
-        ]
-      }
-    },
-    {
       "uid": "Jy7LVOV6O1GyrWaaufqswMR08sg",
       "tmx_id": 294932,
       "name": "Lost Dynasty",
@@ -302,6 +283,25 @@
       }
     },
     {
+      "uid": "go79rOoNh1Qe8EjMCGSN0I8pX11",
+      "tmx_id": 328233,
+      "name": "AMADANT",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGJungle_v2-0_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D (LEVEL 2)",
+        "times": [
+          518565,
+          367745,
+          342365,
+          329465,
+          316684,
+          308896
+        ]
+      }
+    },
+    {
       "uid": "dd1dHEmoW4r9PTQY4FxRo7Cci4c",
       "tmx_id": 229757,
       "name": "Ruinage",
@@ -309,7 +309,7 @@
       "mod": "https://download.dashmap.live/4f507640-c862-45f1-9a21-1e05ed91eb82/Jungle_Natrium.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           75559,
           62366,
@@ -328,7 +328,7 @@
       "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGWitcher_ZX.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           88854,
           78644,
@@ -347,7 +347,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           216331,
           172023,
@@ -366,7 +366,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           217442,
           172452,
@@ -385,7 +385,7 @@
       "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
       "difficulty": 2,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           296325,
           205852,
@@ -404,7 +404,7 @@
       "mod": "https://download.dashmap.live/9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd/WWC_Russia.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           374254,
           267524,
@@ -416,21 +416,21 @@
       }
     },
     {
-      "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
-      "tmx_id": 214814,
-      "name": "Onyxtemple",
-      "author": "Onyx_be01",
-      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "uid": "wx4F6yipGbgpXuY_uuFuYkzHKSb",
+      "tmx_id": 253624,
+      "name": "Hunted House\u2B50",
+      "author": "Kann",
+      "mod": "https://download.dashmap.live/710f49b8-2b51-453b-a795-83b4022699f6/Hunted_House.zip",
       "difficulty": 0,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
-          375654,
-          270564,
-          243127,
-          240687,
-          226845,
-          218245
+          422435,
+          335025,
+          307522,
+          295896,
+          277982,
+          272485
         ]
       }
     },
@@ -442,7 +442,7 @@
       "mod": "https://gitlab.com/raikuzjl/tm-mods/-/raw/main/AnimusProject.zip?ref_type=heads",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "C (LEVEL 3)",
         "times": [
           455415,
           403940,
@@ -549,6 +549,25 @@
       }
     },
     {
+      "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
+      "tmx_id": 214814,
+      "name": "Onyxtemple",
+      "author": "Onyx_be01",
+      "mod": "https://download.dashmap.live/752c4db6-26f9-44a3-9c80-08264d1665dc/RPGJungleV1.zip",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "B (LEVEL 4)",
+        "times": [
+          375654,
+          270564,
+          243127,
+          240687,
+          226845,
+          218245
+        ]
+      }
+    },
+    {
       "uid": "bzNEybi6ElNwlvWvKfKpMunzoYk",
       "tmx_id": 203740,
       "name": "Xaltrion 32C",
@@ -580,9 +599,9 @@
           527488,
           423897,
           405972,
-          398032,
-          381655,
-          376654
+          396032,
+          379655,
+          373654
         ]
       }
     },
@@ -701,21 +720,40 @@
       }
     },
     {
-      "uid": "xynSlBxhMDZRmItxf3D8Og6cM8",
-      "tmx_id": 273721,
-      "name": "Frostguard Citadel \uD83C\uDF1F",
-      "author": "Roquete.wp",
-      "mod": "https://download.dashmap.live/4f0b8dec-eaee-4cf3-bc40-66a983dde494/FrostGuardCitadel_RxZ.zip",
+      "uid": "KYjQhJjQ92sQ4Msbi4GT2ndqlZa",
+      "tmx_id": 304673,
+      "name": "Jungle Lab",
+      "author": "TiMusic",
+      "mod": "",
       "difficulty": 1,
       "pvm": {
         "grade": "A (LEVEL 5)",
         "times": [
-          1005892,
-          648212,
-          599154,
-          578298,
-          555262,
-          538147
+          484989,
+          322577,
+          311032,
+          298481,
+          289901,
+          283976
+        ]
+      }
+    },
+    {
+      "uid": "wGxBsBfFeSql_GCM4NHEkwGnr6c",
+      "tmx_id": 255950,
+      "name": "Flowing Sky",
+      "author": "nemesis76lh",
+      "mod": "http://maniacdn.net/mr_freezz/RPGJungleV1.zip",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S (LEVEL 6)",
+        "times": [
+          98463,
+          62145,
+          57897,
+          53218,
+          49896,
+          48163
         ]
       }
     },
@@ -834,6 +872,25 @@
       }
     },
     {
+      "uid": "xynSlBxhMDZRmItxf3D8Og6cM8",
+      "tmx_id": 273721,
+      "name": "Frostguard Citadel \uD83C\uDF1F",
+      "author": "Roquete.wp",
+      "mod": "https://download.dashmap.live/4f0b8dec-eaee-4cf3-bc40-66a983dde494/FrostGuardCitadel_RxZ.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S (LEVEL 6)",
+        "times": [
+          1005892,
+          648212,
+          599154,
+          578298,
+          555262,
+          538147
+        ]
+      }
+    },
+    {
       "uid": "0U6qn96d4AAdJOPGGqTzgdq_PU5",
       "tmx_id": 266117,
       "name": "Beachside",
@@ -905,7 +962,7 @@
           235151,
           222921,
           214412,
-          205543
+          197543
         ]
       }
     },
@@ -1024,6 +1081,25 @@
       }
     },
     {
+      "uid": "NFseFPgdUT0qM5_cZP1LsgecEpj",
+      "tmx_id": 304873,
+      "name": "Lost Garden",
+      "author": "BimobTm",
+      "mod": "https://download.dashmap.live/22c20dab-3298-4f40-9747-253e3132a5ff/RPGAnubis_v2-0_ZX.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Astral (LEVEL 8)",
+        "times": [
+          390965,
+          244564,
+          197156,
+          190268,
+          185644,
+          179874
+        ]
+      }
+    },
+    {
       "uid": "s4jNXDvjO22JHEzgA5g29AqvPnh",
       "tmx_id": 295085,
       "name": "C-174-DEL",
@@ -1033,7 +1109,7 @@
       "pvm": {
         "grade": "Astral (LEVEL 8)",
         "times": [
-          389877,
+          391877,
           261257,
           238836,
           228773,
@@ -1721,8 +1797,8 @@
           1290389,
           814576,
           776119,
-          719090,
-          677364
+          711790,
+          673364
         ]
       }
     },
@@ -1852,10 +1928,10 @@
         "times": [
           5387456,
           3505256,
-          1283878,
-          1009439,
+          2063878,
+          1474939,
           846684,
-          785454
+          778854
         ]
       }
     },
